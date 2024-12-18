@@ -1,0 +1,1 @@
+This repository demonstrates a common Python coding error: failing to close files properly, which can lead to resource leaks. The `bug.py` file shows the problematic code, while `bugSolution.py` provides a corrected version using context managers for reliable file handling.
